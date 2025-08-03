@@ -1,5 +1,17 @@
 # React + TypeScript + Vite
 
+## 📸 Captures d'écran de l'application
+
+<div align="center">
+  <img src="./capturesEcran/aaa1.png" alt="Capture d'écran 1" width="300" style="margin: 10px;">
+  <img src="./capturesEcran/aaa2.png" alt="Capture d'écran 2" width="300" style="margin: 10px;">
+  <img src="./capturesEcran/aaa3.png" alt="Capture d'écran 3" width="300" style="margin: 10px;">
+  <img src="./capturesEcran/aaa4.png" alt="Capture d'écran 4" width="300" style="margin: 10px;">
+  <img src="./capturesEcran/aaa5.png" alt="Capture d'écran 5" width="300" style="margin: 10px;">
+</div>
+
+---
+
 Ce modèle fournit une configuration minimale pour faire fonctionner React avec Vite, incluant HMR et quelques règles ESLint.
 
 Actuellement, deux plugins officiels sont disponibles :
