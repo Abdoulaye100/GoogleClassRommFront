@@ -1,6 +1,7 @@
 # React + TypeScript + Vite
 
 ## 📸 Captures d'écran de l'application
+Les captures d'ecran son visibles dans le dossier CapturesEcran la haut ☝️
 
 <div align="center">
   <img src="./capturesEcran/aaa1.png" alt="Capture d'écran 1" width="300" style="margin: 10px;">
