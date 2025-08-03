@@ -85,7 +85,9 @@ function Chat({ type, classeId, destinataireId, destinataireNom, currentUserId }
             const messageData = {
                 expediteur_id: parseInt(currentUserId),
                 contenu: newMessage.trim(),
-                type_message: type
+                type_message: type,
+                classe_id: 0,
+                destinataire_id: 0
             };
 
             if (type === 'public' && classeId) {
